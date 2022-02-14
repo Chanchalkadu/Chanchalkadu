@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Chanchalkadu
+- 👋 Hi, I’m Chanchalkadu
 - 👀 I’m interested to work as a web developer or software engineer
 - 🌱 I’m currently learning python with Django
 - 💞️ I’m looking to collaborate on a good platform to enhance my skills 
